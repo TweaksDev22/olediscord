@@ -1,0 +1,10 @@
+Package: com.tweaksdev22.olediscord
+Name: OLEDisocrd
+Description: Fully OLEDISOCRD!
+Maintainer: tweaksdev22
+Author: tweaksdev22
+Section: Tweaks roothide
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm64e
+Version: 0.0.1-46+debug
+Installed-Size: 524
